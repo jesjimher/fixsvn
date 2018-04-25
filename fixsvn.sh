@@ -11,8 +11,8 @@
 #
 # At the end, REPSVN should be identical as REPNOU, but with all files properly moved with svn tools, so history should be preserved
 
-REPSVN="/home/u82066/aux/gvmaven/2.3.0/es.caib.gesvac.web"
-REPNOU="/home/u82066/workspace/gesvac"
+REPSVN="/path/to/pristine/copy/of/svn/repo/contents/just/before/wrecking/it"
+REPNOU="/path/to/working/copy/where/all/bad/things/happened"
 
 
 # Generate all MD5 hashes from REPSVN to a temp file
